@@ -1,6 +1,6 @@
 # SILABUZ | "Examen unidad VI"
 
-Nombre de equipo : **Jelsin Stalin Palomino Huaytapuma**
+**Jelsin Stalin Palomino Huaytapuma**
 
 ### I. Endpoint en AWS
 
