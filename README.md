@@ -13,7 +13,7 @@ Mostramos los resultados de las consultas con POSTMAN
 
 <p align="center">
 
-  <img width="600" src='./img/img1.png'>
+  <img width="600" src='./img/img1.jpg'>
 
 </p>
 
@@ -21,7 +21,7 @@ Mostramos los resultados de las consultas con POSTMAN
 
 <p align="center">
 
-  <img width="600" src='./img/img2.png'>
+  <img width="600" src='./img/img2.jpg'>
 
 </p>
 
